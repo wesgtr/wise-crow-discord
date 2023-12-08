@@ -1,0 +1,16 @@
+{
+    "choose_environment": "In which environment would you like to play?",
+    "how_many_players": "How many people will be playing this campaign?",
+    "whats_your_character_name": "What is the name of your character?",
+    "all_players_send_message": "All players, please send 'I am playing'.",
+    "i_am_playing": "I am playing",
+    "confirm_reset": "Are you sure you want to reset the campaign? Reply with 'yes' or 'no'.",
+    "reset_successful": "Campaign reset successfully!",
+    "reset_cancelled": "Campaign reset cancelled.",
+    "reset_timeout": "You did not reply in time. Reset cancelled.",
+    "yes": "yes",
+    "no": "no",
+    "config_complete": "Setup complete, I am creating a new Universe.",
+    "respond_with_number": "Please respond with a number.",
+    "choose_language": ""
+}

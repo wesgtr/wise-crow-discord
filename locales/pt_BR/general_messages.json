@@ -1,0 +1,16 @@
+{
+    "choose_environment": "Em qual ambiente você gostaria de jogar?",
+    "how_many_players": "Quantas pessoas irão jogar esta campanha?",
+    "whats_your_character_name": "Qual é o nome do seu personagem?",
+    "all_players_send_message": "Todos os jogadores, por favor enviem 'Estou jogando'.",
+    "i_am_playing": "Estou jogando",
+    "confirm_reset": "Você tem certeza de que deseja reiniciar a campanha? Responda com 'sim' ou 'não'.",
+    "reset_successful": "Campanha reiniciada com sucesso!",
+    "reset_cancelled": "Reinício da campanha cancelado.",
+    "reset_timeout": "Você não respondeu a tempo. Reinício cancelado.",
+    "yes": "sim",
+    "no": "não",
+    "config_complete": "Configuração concluída, estou criando um novo Universo.",
+    "respond_with_number": "Por favor, responda com um número.",
+    "choose_language": ""
+}
